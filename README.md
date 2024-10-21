@@ -1,20 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JALAL-00.JALAL-00" />
+<h2 align="left">👋 Hey! I'm Shohorab</h2>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+JALAL!;" />
-</h1>
-
-<h3 align="center">A passionate about Machine learning & Data science from Bangladesh 🇧🇩</h3>
+<h3 align="center">I am from Bangladesh 🇧🇩</h3>
 
 <br/>
-
-<div align="center">
- 
- 🌱 I’m currently learning **Data mining, Machine learning, Python**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
 
 ###
 
@@ -26,9 +14,6 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="14" />
