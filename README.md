@@ -1,8 +1,6 @@
-<h2 align="left">👋 Hey! I'm Shohorab</h2>
+<h2 align="left">👋 Hey! I'm JALAL</h2>
 
 <h3 align="center">I am from Bangladesh 🇧🇩</h3>
-
-<br/>
 
 ###
 
