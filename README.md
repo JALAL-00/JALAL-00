@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hey! I'm JALAL</h2>
+<h2 align="center">👋 Hey! I'm JALAL</h2>
 
 <h3 align="center">I am from Bangladesh 🇧🇩</h3>
 
