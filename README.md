@@ -58,14 +58,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JALAL-00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=JALAL-00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JALAL-00&locale=en&hide_title=false&layout=compact&card_width=280&langs_count=8&theme=transparent&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JALAL-00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/JALAL-00/count.svg?"  />
+  <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20Views&query=count&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fgithub.com%2FJALAL-00" alt="Profile views counter" />
 </div>
 
 ###
